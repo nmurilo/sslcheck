@@ -12,7 +12,7 @@ import subprocess
 try:
    url = sys.argv[1]
 except:
-   print ("\nUsage: sslcheck host [port]")
+   print ("\nUsage: python sslcheck.py host [port]")
    quit()
 
 port="443"
