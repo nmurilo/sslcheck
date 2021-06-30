@@ -9,9 +9,14 @@ import sys
 from sys import platform 
 import subprocess 
 
-url = sys.argv[1]
+try:
+   url = sys.argv[1]
+except:
+   print ("\nUsage: sslcheck host [port]")
+   quit()
+
 port="443"
-if len(sys.argv) == 3: 
+if len(sys.argv) == 3:
     port = sys.argv[2]
 
 out = os.popen("openssl ciphers ALL").read().split(':') 
