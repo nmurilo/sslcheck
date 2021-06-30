@@ -1,4 +1,3 @@
-!/usr/bin/env python
 __author__    = "Nelson Murilo"
 __email__     = "nmurilo@gmail.com"
 _copyright__ = "Copyright (c) 2011-2021 Pangeia"
