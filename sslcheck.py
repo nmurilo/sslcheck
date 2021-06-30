@@ -40,7 +40,7 @@ for c in out:
                print(line[6:-5])
             else:
                print(line[6:-3])
-            subterminate()
+            sub.terminate()
             break
       sub.terminate()
    except: 
