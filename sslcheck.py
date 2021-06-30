@@ -1,3 +1,10 @@
+!/usr/bin/env python
+__author__    = "Nelson Murilo"
+__email__     = "nmurilo@gmail.com"
+_copyright__ = "Copyright (c) 2011-2021 Pangeia"
+__license__   = "AMS"
+__version__   = "0.2"
+__date__      = "2021-06-29"
 import os
 import sys
 from sys import platform 
