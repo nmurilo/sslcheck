@@ -1,6 +1,6 @@
 __author__    = "Nelson Murilo"
 __email__     = "nmurilo@gmail.com"
-_copyright__ = "Copyright (c) 2011-2021 Pangeia"
+_copyright__ = "Copyright (c) 2011-2022 Pangeia"
 __license__   = "AMS"
 __version__   = "0.2"
 __date__      = "2021-06-29"
